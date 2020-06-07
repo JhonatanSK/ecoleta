@@ -1,5 +1,3 @@
-# ecoleta
-
 <h1 align="center">
 	<img alt="Next Level Week" src="nextlevelweek_18baaf82af.svg" width="350px" />
 	<br>
